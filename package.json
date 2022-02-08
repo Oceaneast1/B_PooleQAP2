@@ -1,0 +1,19 @@
+{
+  "name": "b_pooleqap2",
+  "version": "1.0.0",
+  "description": "Multi-Route http Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Barry Poole",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
